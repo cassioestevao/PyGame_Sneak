@@ -14,10 +14,10 @@ Este é um jogo da cobrinha desenvolvido em Python utilizando a biblioteca Pygam
     pip install pygame
     ```
 
-2. **Execução do Jogo**: Para iniciar o jogo, execute o arquivo `snake.py` utilizando o Python:
+2. **Execução do Jogo**: Para iniciar o jogo, execute o arquivo `exe.py` utilizando o Python:
 
     ```
-    python snake.py
+    exe.py
     ```
 
 3. **Controles**: Use as setas direcionais do teclado para mover a cobrinha (para cima, baixo, esquerda e direita).
