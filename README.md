@@ -1,7 +1,8 @@
-<p align = # Jogo da Cobrinha em Python </p>
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="100">
 </div>
+ 
+ # Jogo da Cobrinha em Python
 
 Este é um jogo da cobrinha desenvolvido em Python utilizando a biblioteca Pygame.
 
