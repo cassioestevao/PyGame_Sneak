@@ -1,5 +1,4 @@
-# Jogo da Cobrinha em Python
-
+<p align = # Jogo da Cobrinha em Python </p>
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="100">
 </div>
