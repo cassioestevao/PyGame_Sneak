@@ -1,6 +1,8 @@
 # Jogo da Cobrinha em Python
 
-![Snake Game](snake_game_screenshot.png)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="100">
+</div>
 
 Este é um jogo da cobrinha desenvolvido em Python utilizando a biblioteca Pygame.
 
