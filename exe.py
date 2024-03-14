@@ -30,7 +30,7 @@ def desing_sneak(tamanho, pixels):
 
 def desing_record(pontuacao):
     fonte = pygame.font.SysFont("Helvetica", 35)
-    texto = fonte.render(f"Pontos: {pontuacao}", True, vermelha)
+    texto = fonte.render("Pontos: {}".format(pontuacao), True, vermelha)
     monitor.blit(texto, [1, 1])
 
 def frame_fps(tecla):
